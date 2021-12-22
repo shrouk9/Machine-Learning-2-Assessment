@@ -35,6 +35,7 @@ e. You are not asked to describe the inner steps of LDA at all.
 ### 3. Anomaly detection
 
 a. Given the following resources: http://odds.cs.stonybrook.edu/
+
 b. Using a GMM model, please detect the anomalies in either of the following
 datasets: “Obligatory”
 
